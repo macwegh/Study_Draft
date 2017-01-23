@@ -2,3 +2,4 @@
 Alpha, Beta, Gamma, Delta..... Sequence1
 Aleph, Bet, Gimmel, Daled, ....Sequence2
 A, B, C, D, ......             Sequence3
+1,2,3,4, ........              Sequence4
